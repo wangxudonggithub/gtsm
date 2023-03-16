@@ -5,6 +5,7 @@ gtsmk/target/
 .idea/
 *.iml
 target
+*.xml
 
 
 
